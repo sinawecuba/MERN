@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "sinawesome_db_user",
+    "MONGO_PASSWORD": "Maplerd162",
+    "MONGO_DB_NAME": "events-react-dev",
+    "JWT_SECRET": "sinawe-super-secret-jwt-key-2026"
+  }
+}
